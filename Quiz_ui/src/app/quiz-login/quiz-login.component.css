@@ -1,0 +1,8 @@
+.login_img
+{
+    background-image: url("../../assets/bgfor.jpg");
+    background-size: cover;
+  border-radius: 50px;
+  /* box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,.05); */
+
+}
